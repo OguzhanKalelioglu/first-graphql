@@ -1,4 +1,4 @@
-# axios-nuxt
+# GraphQL - Nuxt JS
 
 ## Build Setup
 
